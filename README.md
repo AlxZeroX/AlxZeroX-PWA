@@ -9,5 +9,5 @@ AlxZeroX Chronicles ahora en una aplicación web progresiva (PWA).
 Mis Redes Sociales:
 
 * 🔔 Suscríbete al canal https://www.youtube.com/channel/UCa-AnOQ7ezeipSVhveE2Eug 🤓
-* 👉 Visita mi sitio web   💻
+* 👉 Visita mi Instagram  https://www.instagram.com/AlxZeroX 💻
 * 🌮 ¿Me invítas un taco? https://www.paypal.me/ByAlxZeroX

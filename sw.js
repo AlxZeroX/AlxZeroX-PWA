@@ -10,7 +10,18 @@ const CACHE_NAME = 'v1.z_cache_AlxZeroX_Chronicles',
     './style.css',
     './script.js',
     './img/AlxZeroXChronicles.png',
-    './img/favicon.png'
+    './img/favicon.png',
+    './img/favicon-32x32.png',
+    './img/favicon-16x16.png',
+    './img/favicon-96x96.png',
+    './img/favicon-128x128.png',
+    './img/favicon-144x144.png',
+    './img/favicon-152x152.png',
+    './img/favicon-192x192.png',
+    './img/favicon-384x384.png',
+    './img/favicon-512x512.png',
+    './img/favicon-1024x1024.png',
+    './img/favicon-2048x2048.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
